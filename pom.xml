@@ -6,7 +6,7 @@
 	<artifactId>com.pavan.web.app</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>com.pavan.web.app Maven Webapp</name>
+	<name>DockerWebapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
